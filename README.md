@@ -37,20 +37,28 @@ Of note, posts that have received a sufficient number of upvotes in a relatively
 
 ### Show the table with the highest scoring fields (visualisation might be more useful?)
 
-### Time of submission matters.
-
-
-
-
 ### Posts by PhDs score higher.
 
 Of the ~250k posts analysed, approximately 11k of them were made by authors who chose to disclose their educational credentials. Though this disclosure is optional, it has to be verified by moderators of the forum before it is displayed to the general public.
 
 Authors that did disclose their educational credentials scored more highly, on average, than those who did not. Posts from authors holding a Bachelor's degree did not fare significantly better than those by Master's degree holders. On the contrary, authors with a PhD fared better than Bachelor's or Master's degree holders, while Professors did on average, significantly better than any of the other categories.
 
-Hence, the level of educational attainment of the author seems to be correlated with the average score of the posts. This makes sense, in that people specialists are more likely to catch wind of ground-breaking research earlier on than the average person, and have a better ability to summarise the key results in a succint fashion that is understandable for the layman. In addition, access to peer-reviewed articles tends to be prohibitively expensive, unless one is affiliated with a university.
+Hence, the level of educational attainment of the author seems to be correlated with the average score of the posts. This makes sense, in that people specialists are more likely to catch wind of ground-breaking research earlier on than the average person, and have a better ability to summarise the key results in a succint fashion that is understandable for the lay person. In addition, access to peer-reviewed articles tends to be prohibitively expensive, unless one is affiliated with a university.
 
-One should not exclude the possibility of bias in the voting system, in that voters may well be more likely to accept conclusions presented to them by authors who have disclosed a high level of educational attainment.
-### Show the median score divided by category
+Conversely, voters may well be more likely to trust conclusions presented to them by authors who have disclosed a high level of educational attainment, which would play a role in the correlation observed.
+
+#### Show the median score divided by category
+
+### Length of title matters.
+
+### Time of submission matters.
+
+Given that the timing of upvotes is an important contributor to Reddit's ranking algorithm (and hence, on the exposure that a post gets), it should come as no surprise that the time of submission plays an important role on how well a post does.
+
+When segmenting the posts by score (>0, >100, >1000), it appears that there is a disproportionately large number of high scoring posts that are submitted around 4am PST. 
+
+### Insert image here
+
+A likely explanation for this trend is that posting at 4am PST corresponds to the moment when users on the East Coast are waking up (+3 hours), and when users in Europe are having lunch (+8 hours). Those users are likely to be browsing for new content on the website at that time, resulting in upvotes soon after posting, which in turn leads to a prefential treatment by Reddit's ranking algorithm.
 
 
