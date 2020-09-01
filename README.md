@@ -46,7 +46,11 @@ Of note, posts that have received a sufficient number of upvotes in a relatively
 
 Of the ~250k posts analysed, approximately 11k of them were made by authors who chose to disclose their educational credentials. Though this disclosure is optional, it has to be verified by moderators of the forum before it is displayed to the general public.
 
-Authors that did disclose their educational credentials scored more highly, on average, than those who did not. Posts from authors holding a Bachelor's degree did not fare significantly better than those by Master's degree holders. On the contrary, authors with a PhD fared better than Bachelor's or Master's degree holders, while Professors did best out of any of these categories, on average.
+Authors that did disclose their educational credentials scored more highly, on average, than those who did not. Posts from authors holding a Bachelor's degree did not fare significantly better than those by Master's degree holders. On the contrary, authors with a PhD fared better than Bachelor's or Master's degree holders, while Professors did on average, significantly better than any of the other categories.
 
+Hence, the level of educational attainment of the author seems to be correlated with the average score of the posts. This makes sense, in that people specialists are more likely to catch wind of ground-breaking research earlier on than the average person, and have a better ability to summarise the key results in a succint fashion that is understandable for the layman. In addition, access to peer-reviewed articles tends to be prohibitively expensive, unless one is affiliated with a university.
+
+One should not exclude the possibility of bias in the voting system, in that voters may well be more likely to accept conclusions presented to them by authors who have disclosed a high level of educational attainment.
+### Show the median score divided by category
 
 
