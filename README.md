@@ -31,13 +31,14 @@ In no particular order, a few of the interesting insights from this data.
 
 A quick glance shows that of the 250k posts of interest, ~150k have a field specified, with ~800 distinct fields. The average score per field was calculated by first extracting the sum of the scores of all posts for a given field, and then dividing that by the number of posts made to that field. 
 
-![](visualisations/average_score_field.jpg)
+<p align="center">
+<img src="visualisations/average_score_field.jpg" width="750"/>
+</p>
+
 
 Interestingly, the traditionally 'soft' sciences, such as psychology, economics, social science, and epidemiology, fare better than 'hard' sciences, such as mathematics or computer science. One possible explanation for this, is the fact that results from groundbreaking research in psychology or economics tend to have far more relatable and direct implications on the average person's life, than comparably novel work in mathematics. 
 
 Of note, posts that have received a sufficient number of upvotes in a relatively short window tend to make it to the 'front page' of Reddit, where they will be visible to anyone who opens Reddit, and not just people that browse the r/science subreddit. This leads to a feeback loop of sorts, whereby posts that gain a lot of traction early on in the r/science subreddit, get subsequently exposed to a much wider array of people by appearing on the 'front page', which results in further upvotes.
-
-### Show the table with the highest scoring fields (visualisation might be more useful?)
 
 ### Posts by PhDs score higher.
 
@@ -45,13 +46,13 @@ Of the ~250k posts analysed, approximately 11k of them were made by authors who 
 
 Authors that did disclose their educational credentials scored more highly, on average, than those who did not. Posts from authors holding a Bachelor's degree did not fare significantly better than those by Master's degree holders. On the contrary, authors with a PhD fared better than Bachelor's or Master's degree holders, while Professors did on average, significantly better than any of the other categories.
 
+<p align="center">
+<img src="visualisations/degree_type.jpg" width="500"/>
+</p>
+
 Hence, the level of educational attainment of the author seems to be correlated with the average score of the posts. This makes sense, in that people specialists are more likely to catch wind of ground-breaking research earlier on than the average person, and have a better ability to summarise the key results in a succint fashion that is understandable for the lay person. In addition, access to peer-reviewed articles tends to be prohibitively expensive, unless one is affiliated with a university.
 
 Conversely, voters may well be more likely to trust conclusions presented to them by authors who have disclosed a high level of educational attainment, which would play a role in the correlation observed.
-
-#### Show the median score divided by category
-
-### Length of title matters.
 
 ### Time of submission matters.
 
@@ -59,8 +60,10 @@ Given that the timing of upvotes is an important contributor to Reddit's ranking
 
 When segmenting the posts by score (>0, >100, >1000), it appears that there is a disproportionately large number of high scoring posts that are submitted around 4am PST. 
 
-<img src="visualisations/all_posts.jpg" width="450" class='center'/> <img src="visualisations/posts10.jpg" width="450" class='center'/>  
-<img src="visualisations/posts100.jpg" width="450" class='center'/> <img src="visualisations/posts1000.jpg" width="450" class='center'/>
+<p align="center">
+<img src="visualisations/all_posts.jpg" width="450"> <img src="visualisations/posts10.jpg" width="450">  
+<img src="visualisations/posts100.jpg" width="450"> <img src="visualisations/posts1000.jpg" width="450">
+</p>
 
 A likely explanation for this trend is that posting at 4am PST corresponds to the moment when users on the East Coast are waking up (+3 hours), and when users in Europe are having lunch (+8 hours). Those users are likely to be browsing for new content on the website at that time, resulting in upvotes shortly after posting, which in turn leads to a prefential treatment by Reddit's ranking algorithm.
 
