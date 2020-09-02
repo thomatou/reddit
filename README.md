@@ -21,7 +21,9 @@ Using it, I was rapidly able to retrieve data for the ~ 250,000 posts that were 
 
 Unfortunately, the maximum number of calls that any given user can make to the Reddit API is set to 60 requests per minute, or 3600 requests per hour. A back-of-the-enveloppe calculation rapidly pointed to the fact that getting the desired data on the 250k posts of interest would take close to 3 days. With limited time on my hands, I decided to create 10 separate Reddit user accounts, which would each process a chunk of ~25k posts of the parent dataframe in parallel –– thus reducing data collection to an overnight operation.
 
-### Insert scheme to show the data collection process
+<p align="center">
+<img src="visualisations/process_description.jpg" width="750"/>
+</p>
 
 ## Exploratory data analysis
 
