@@ -59,7 +59,7 @@ Given that the timing of upvotes is an important contributor to Reddit's ranking
 
 When segmenting the posts by score (>0, >100, >1000), it appears that there is a disproportionately large number of high scoring posts that are submitted around 4am PST. 
 
-![](visualisations/all_posts.jpg) ![](visualisations/posts100.jpg)
+![](visualisations/all_posts.jpg) ![](visualisations/posts100.jpg = 100x20)
 
 A likely explanation for this trend is that posting at 4am PST corresponds to the moment when users on the East Coast are waking up (+3 hours), and when users in Europe are having lunch (+8 hours). Those users are likely to be browsing for new content on the website at that time, resulting in upvotes shortly after posting, which in turn leads to a prefential treatment by Reddit's ranking algorithm.
 
