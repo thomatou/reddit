@@ -1,10 +1,9 @@
 # REDDIT
 ## Collecting 5-years' worth of post information from the r/science subreddit and follow-up exploratory data analysis! 
 
-The r/science subreddit is a forum where users can post about, and discuss, developments in any field of science. Users interact with such posts by 'upvoting' them, which is a way of expressing interest in the content of the submission.
+The r/science subreddit is a forum where users post and discuss recent peer-reviewed scientific research. Users interact with such posts by 'upvoting' them, which is a way of expressing interest in the content of the submission. The number of upvotes, and their timing, are then used by Reddit's internal ranking algorithm to serve users content that is deemed to be most interesting.
 
-The idea here was to collect information about all the posts from the r/science subreddit over the last 5 years (01/01/2015 to 04/21/2020, to be precise), and try to identify the common characteristics of posts that get a lot of visibility (i.e., posts with a high number of upvotes).
-### Why is that important? 
+The idea here was to collect information about all the posts from the r/science subreddit over the last 5 years (01/01/2015 to 04/21/2020, to be precise), and try to identify the common characteristics of posts that score highly. This is important for a number of reasons, one of which being that posts that score highly get a lot of visibility––with 1.5 billion visits per month in 2020, a high-scoring post on Reddit has can reach, and potentially influence, a great number of people.
 
 To do so, I set out to collect the following information associated with posts on that subreddit: 
 * Username of the poster
