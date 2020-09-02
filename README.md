@@ -40,8 +40,6 @@ Interestingly, the traditionally 'soft' sciences, such as psychology, economics,
 
 Of note, posts that have received a sufficient number of upvotes in a relatively short window tend to make it to the 'front page' of Reddit, where they will be visible to anyone who opens Reddit, and not just people that browse the r/science subreddit. This leads to a feeback loop of sorts, whereby posts that gain a lot of traction early on in the r/science subreddit, get subsequently exposed to a much wider array of people by appearing on the 'front page', which results in further upvotes.
 
-### Show the table with the highest scoring fields (visualisation might be more useful?)
-
 ### Posts by PhDs score higher.
 
 Of the ~250k posts analysed, approximately 11k of them were made by authors who chose to disclose their educational credentials. Though this disclosure is optional, it has to be verified by moderators of the forum before it is displayed to the general public.
