@@ -45,6 +45,10 @@ Of the ~250k posts analysed, approximately 11k of them were made by authors who 
 
 Authors that did disclose their educational credentials scored more highly, on average, than those who did not. Posts from authors holding a Bachelor's degree did not fare significantly better than those by Master's degree holders. On the contrary, authors with a PhD fared better than Bachelor's or Master's degree holders, while Professors did on average, significantly better than any of the other categories.
 
+<p align="center">
+<img src="visualisations/degree_type.jpg" width="500"/>
+</p>
+
 Hence, the level of educational attainment of the author seems to be correlated with the average score of the posts. This makes sense, in that people specialists are more likely to catch wind of ground-breaking research earlier on than the average person, and have a better ability to summarise the key results in a succint fashion that is understandable for the lay person. In addition, access to peer-reviewed articles tends to be prohibitively expensive, unless one is affiliated with a university.
 
 Conversely, voters may well be more likely to trust conclusions presented to them by authors who have disclosed a high level of educational attainment, which would play a role in the correlation observed.
@@ -59,8 +63,10 @@ Given that the timing of upvotes is an important contributor to Reddit's ranking
 
 When segmenting the posts by score (>0, >100, >1000), it appears that there is a disproportionately large number of high scoring posts that are submitted around 4am PST. 
 
-<img src="visualisations/all_posts.jpg" width="450" class='center'/> <img src="visualisations/posts10.jpg" width="450" class='center'/>  
-<img src="visualisations/posts100.jpg" width="450" class='center'/> <img src="visualisations/posts1000.jpg" width="450" class='center'/>
+<p align="center">
+<img src="visualisations/all_posts.jpg" width="450"> <img src="visualisations/posts10.jpg" width="450">  
+<img src="visualisations/posts100.jpg" width="450"> <img src="visualisations/posts1000.jpg" width="450">
+</p>
 
 A likely explanation for this trend is that posting at 4am PST corresponds to the moment when users on the East Coast are waking up (+3 hours), and when users in Europe are having lunch (+8 hours). Those users are likely to be browsing for new content on the website at that time, resulting in upvotes shortly after posting, which in turn leads to a prefential treatment by Reddit's ranking algorithm.
 
