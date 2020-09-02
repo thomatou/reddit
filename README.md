@@ -31,7 +31,10 @@ In no particular order, a few of the interesting insights from this data.
 
 A quick glance shows that of the 250k posts of interest, ~150k have a field specified, with ~800 distinct fields. The average score per field was calculated by first extracting the sum of the scores of all posts for a given field, and then dividing that by the number of posts made to that field. 
 
-![](visualisations/average_score_field.jpg)
+<p align="center">
+<img src="visualisations/average_score_field.jpg" width="750"/>
+</p>
+
 
 Interestingly, the traditionally 'soft' sciences, such as psychology, economics, social science, and epidemiology, fare better than 'hard' sciences, such as mathematics or computer science. One possible explanation for this, is the fact that results from groundbreaking research in psychology or economics tend to have far more relatable and direct implications on the average person's life, than comparably novel work in mathematics. 
 
