@@ -56,10 +56,6 @@ Hence, the level of educational attainment of the author seems to be correlated 
 
 Conversely, voters may well be more likely to trust conclusions presented to them by authors who have disclosed a high level of educational attainment, which would play a role in the correlation observed.
 
-#### Show the median score divided by category
-
-### Length of title matters.
-
 ### Time of submission matters.
 
 Given that the timing of upvotes is an important contributor to Reddit's ranking algorithm (and hence, on the exposure that a post gets), it should come as no surprise that the time of submission plays an important role on how well a post does.
