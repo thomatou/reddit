@@ -7,6 +7,8 @@ The idea here was to collect information about all the posts from the r/science 
 
 ## Data collection
 
+If you're after the code, it's [here](https://github.com/thomatou/reddit/blob/master/reddit_scraping_cleaning.ipynb).
+
 I initially set out to collect the following information associated with posts on that subreddit: username of the poster, date/time of post, field of science relating to the submission (optional), educational credentials of the author (optional), and score of the post.
 
 In order to collect the data, the [Reddit API](https://www.reddit.com/dev/api/) seemed like the obvious choice. Unfortunately, the official API does not enable users to collect post data within a specified date range, which is where the [Pushshift API](https://pushshift.io/api-parameters/) came in handy. Pushshift is a big data project that ingests Reddit data as it is posted on the website, and its API enables users to retrieve data from a specific date range. 
@@ -21,7 +23,7 @@ Unfortunately, the maximum number of calls that a user can make to the Reddit AP
 
 ## Exploratory data analysis
 
-In no particular order, a few of the interesting insights from this data.
+In no particular order, a few of the interesting insights from this data. Code and more [here](https://github.com/thomatou/reddit/blob/master/reddit_EDA.ipynb).
 
 ### Some fields are more interesting to the community than others.
 
