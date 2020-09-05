@@ -64,9 +64,3 @@ When segmenting the posts by score (>0, >100, >1000), it appears that there is a
 
 A likely explanation for this trend is that posting at 4am PST corresponds to the moment when users on the East Coast are waking up (+3 hours), and when users in Europe are having lunch (+8 hours). Those users are likely to be browsing for new content on the website at that time, resulting in upvotes shortly after posting, which in turn leads to a prefential treatment by Reddit's ranking algorithm.
 
-## Conclusion
-
-The degree of the poster, the time of submission, and the field of science 
-
-
-
